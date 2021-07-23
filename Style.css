@@ -1,0 +1,13 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+section {
+  padding: 6rem 3rem;
+}
+h1 {
+  margin: 1rem;
+}
+h2 {
+  margin-bottom: 3rem;
+}
